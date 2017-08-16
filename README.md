@@ -4,7 +4,7 @@
 
 This project is based on [GeoTools4iOS](https://github.com/bluejava/GeoTools4iOS). The code has been updated and some functions have been rewritten to support iOS 11 and Swift 4.
 
-Use this very small library (currently just 3 classes) to easily build custom geometry in your Swift-based SceneKit projects for OS X (iOS version soon to follow). It uses the concept of "Quads" rather than "Triangles" to build up your geometry, making it easier to visualize, create and texture map shapes.  It also offers support for tiling your textures across "odd" shapes without skewing.
+Use this very small library (currently just 3 classes) to easily build custom geometry in your Swift-based SceneKit projects. It uses the concept of "Quads" rather than "Triangles" to build up your geometry, making it easier to visualize, create and texture map shapes.  It also offers support for tiling your textures across "odd" shapes without skewing.
 
 ![Custom Geometry Example](https://github.com/evgeniybokhan/GeoTools4iOS-Swift-4-/blob/master/Media/Custom%20Geometry%20Example1.jpg "Custom Geometry Example")
 
